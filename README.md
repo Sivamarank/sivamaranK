@@ -14,7 +14,7 @@
 - 📈 [Power BI Sales Dashboard](https://github.com/Sivamarank/PowerBI-SalesDashboard)
   Interactive sales report dashboard created with Power BI for business insights
 
-- 🩸 Blood Donation Prediction  
+- 🩸 [Blood Donation Prediction](https://github.com/Sivamarank/BloodDonationPrediction)
   Predictive model to determine potential blood donors based on historical data
 
 ---
