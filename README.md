@@ -11,7 +11,7 @@
 - ✈️ [Flight Price Prediction](https://github.com/SivamaranK/FlightPricePrediction)  
   Predicts airline ticket prices using machine learning models and EDA
 
-- 📈 Power BI Sales Dashboard  
+- 📈 [Power BI Sales Dashboard] (https://github.com/Sivamarank/PowerBI-SalesDashboard)
   Interactive sales report dashboard created with Power BI for business insights
 
 - 🩸 Blood Donation Prediction  
